@@ -142,6 +142,7 @@ un ticket si vous n'êtes pas d'acord) :
 * débugging => débogage (en contradiction avec le précédent ?)
 * built-in => primitives, natives, interne, intégré
 * double quote => guillemet
+* hashtag => croisillon
 * identifier => identifiant
 * immutable => immuable
 * interpreter => interpréteur
